@@ -35,9 +35,54 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The blessing of a good king Deliuered in eight sermons vpon the storie of the Queene of the south, h
+
+1. TO THE RIGHT HOnourable
+the Lord Harington
+Baron of Exton, Thomas Gibſon wiſheth
+all true happines, both in
+this life and in the life to come.
+
+1. TO THE RIGHT
+Worſhipful M. Mayor of Couentry,
+the Iuſtices, Aldermen, Sheriffes,
+to all the reſt of that corperation, and to
+all within the liberties of that Citie,
+which ſincerely profeſſe and loue the
+truth of Chriſts Goſpel, T: G: wiſheth
+all happines in this life,
+and euerlaſting glory, in the
+life to come.
+
+1. THE PRINCIPALL
+matters handled in euery
+Sermon.
+
 #####Body#####
-The blessing of a good king Deliuered in eight sermons vpon the storie of the Queene of the south, h
+
+1. THE FIRST
+SERMON.
+
+1. THE SECOND
+SERMON.
+
+1. THE THIRD
+SERMON.
+
+1. THE FOVRTH
+SERMON.
+
+1. THE FIFTH
+SERMON.
+
+1. THE SIXT
+SERMON.
+
+1. THE SEVENTH
+SERMON.
+
+1. THE EIGHTH
+SERMON.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
